@@ -1,0 +1,1 @@
+##### In this assignment we firstly simulated a distillation column & verified  the results of the Python/MATLAB code through the DWSIM software for the system of ethanol and water.We did Separation of Azeotropic mixture by Extractive Distillation using DWSIM software for the system of ethanol and water.
