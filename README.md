@@ -1,2 +1,3 @@
 # Distillation-Column-Design
-Simutech Project
+## Simutech Projects'22
+### Chemineers Society @ IIT Kanpur
